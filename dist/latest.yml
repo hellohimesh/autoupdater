@@ -1,0 +1,8 @@
+version: 1.0.6
+files:
+  - url: AutoUpdater-Setup-1.0.6.exe
+    sha512: nMp9g4ERAJ+EU9TOg3n5a96if84gLEE3zv0EXfjKfm9m5NSz4//nhx3OKTSBIp+qdOITQgbxu9NBbKcg4m58QA==
+    size: 50105052
+path: AutoUpdater-Setup-1.0.6.exe
+sha512: nMp9g4ERAJ+EU9TOg3n5a96if84gLEE3zv0EXfjKfm9m5NSz4//nhx3OKTSBIp+qdOITQgbxu9NBbKcg4m58QA==
+releaseDate: '2023-10-12T17:47:35.517Z'

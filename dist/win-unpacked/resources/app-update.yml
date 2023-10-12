@@ -1,0 +1,4 @@
+owner: hellohimesh
+repo: autoupdater
+provider: github
+updaterCacheDirName: auto-updater-updater
